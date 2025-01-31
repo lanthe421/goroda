@@ -6,7 +6,7 @@ from random import choice
 from telebot import TeleBot
 from telebot.types import Message
 
-TOKEN = '7066186948:AAHYaKGd5gkAgDpUkHkGMhipRXi2ms3Q_Do'
+TOKEN = "token"
 bot = TeleBot(TOKEN)
 
 
